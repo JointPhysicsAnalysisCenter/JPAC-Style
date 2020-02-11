@@ -51,7 +51,7 @@ function make_gaus_plot()
     heatmap!(xv,yv, calv, c=cgrad(jpac_palette[[1,11,4]]))
     annotate!([(0.95,0.9,text(L"J^{P\!\mathcal{A}C}", 12,:right))])
     #
-    plot!(size=(400,350))
+    plot!(size=(400,350), xlim=(-1,1), ylim=(-1,1))
 end
 
 #    _|_|_|  _|  _|_|
