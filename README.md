@@ -5,4 +5,4 @@ order to unify the plots produced by JPAC.
 
 Here are links to the code:
  * [Gnuplot](gnuplot/jpac_2dplot.plt)
- * [Julia](gnuplot/julia_plots.plt)
+ * [Julia](gnuplot/julia_plots.jl)
