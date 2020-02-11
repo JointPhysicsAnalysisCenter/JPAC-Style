@@ -1,0 +1,28 @@
+###############################################################################
+#
+# jpac colors, used https://www.rgbtohex.net to convert rgb to hex
+#
+# jpac-blue,   rgb = 31,  119, 180,  hex = #1F77B4
+# jpac-red,    rgb = 214, 39,  40,   hex = #D61D28
+# jpac-green,  rgb = 44,  160, 44,   hex = #2CA02C
+# jpac-orange, rgb = 255, 127, 14,   hex = #FF7F0E
+# jpac-purple, rgb = 148, 103, 189,  hex = #9467BD
+# jpac-brown,  rgb = 140, 86,  75,   hex = #8C564B
+# jpac-pink,   rgb = 227, 119, 194,  hex = #E377C2
+# jpac-gold,   rgb = 188, 189, 34,   hex = #BCBD22
+# jpac-aqua,   rgb = 23,  190, 207,  hex = #17BECF
+# jpac-grey,   rgb = 127, 127, 127,  hex = #7F7F7F
+#
+##############################################################################
+
+set style line  1  lt 1 lc rgb '#1F77B4' # jpac-blue,   rgb = 31,  119, 180
+set style line  2  lt 1 lc rgb '#D61D28' # jpac-red,    rgb = 214, 39,  40
+set style line  3  lt 1 lc rgb '#2CA02C' # jpac-green,  rgb = 44,  160, 44
+set style line  4  lt 1 lc rgb '#FF7F0E' # jpac-orange, rgb = 255, 127, 14
+set style line  5  lt 1 lc rgb '#9467BD' # jpac-purple, rgb = 148, 103, 189
+set style line  6  lt 1 lc rgb '#8C564B' # jpac-brown,  rgb = 140, 86,  75
+set style line  7  lt 1 lc rgb '#E377C2' # jpac-pink,   rgb = 227, 119, 194
+set style line  8  lt 1 lc rgb '#BCBD22' # jpac-gold,   rgb = 188, 189, 34
+set style line  9  lt 1 lc rgb '#17BECF' # jpac-aqua,   rgb = 23,  190, 207
+set style line  10 lt 1 lc rgb '#7F7F7F' # jpac-grey,   rgb = 127, 127, 127
+

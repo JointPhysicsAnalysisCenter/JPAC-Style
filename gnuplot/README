@@ -1,0 +1,20 @@
+############
+Author: Andrew W. Jackura
+Email: ajackura@odu.edu, ajackura@jlab.org
+############
+
+This package is a set of example shell and gnuplot scripts to create
+the JPAC example plots. The JPAC colors are defined in 'jpac.pal',
+and must be loaded into any gnuplot script. The gnuplot scripts
+'jpac_2dplot.plt' and 'jpac_3dplot.plt' make the 2d and 3d plots respectively.
+To create the plots, execute the script file 'create_plots.sh'.
+These plots are created as pdf files and stored in the 'figs' directory.
+For the 2d plot, the gnuplot script requires data, which are stored in the
+'data' directory.
+
+If there are any questions on these scripts and how they work/ how they are
+set up, please let me know. If there are any questions on how to extend these
+scripts to more complicated cases, I am happy to help.
+
+If anyone has ideas on how to make these scripts more versatile, please
+let me know as I am interested in making these scripts more robust.
